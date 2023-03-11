@@ -1,5 +1,5 @@
 ### Hi there 👋<div style="display:flex; flex-direction:row">
-<a><img src="https://user-images.githubusercontent.com/73743934/224478603-f1538cd8-39fd-43ed-bd0c-842f21dcf4d5.png"></img></a>
+<a style="width: 200px"><img src="https://user-images.githubusercontent.com/73743934/224478603-f1538cd8-39fd-43ed-bd0c-842f21dcf4d5.png"></img></a>
 <a><img src="https://user-images.githubusercontent.com/73743934/224478603-f1538cd8-39fd-43ed-bd0c-842f21dcf4d5.png"></img></a>
 <a>![image](https://user-images.githubusercontent.com/73743934/224478618-7d098650-a9ac-42f2-a68e-a2f3755e3cc7.png)</a>
 <a>![image](https://user-images.githubusercontent.com/73743934/224478659-6cc4065c-c40f-4bd9-9ae7-21cd56c410a0.png)</a>
