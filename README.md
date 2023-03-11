@@ -1,9 +1,10 @@
-### Hi there 👋<div style="display:flex; flex-direction:row">
-<a style="width: 200px"><img src="https://user-images.githubusercontent.com/73743934/224478603-f1538cd8-39fd-43ed-bd0c-842f21dcf4d5.png"></img></a>
-<a><img src="https://user-images.githubusercontent.com/73743934/224478603-f1538cd8-39fd-43ed-bd0c-842f21dcf4d5.png"></img></a>
-<a>![image](https://user-images.githubusercontent.com/73743934/224478618-7d098650-a9ac-42f2-a68e-a2f3755e3cc7.png)</a>
-<a>![image](https://user-images.githubusercontent.com/73743934/224478659-6cc4065c-c40f-4bd9-9ae7-21cd56c410a0.png)</a>
-<a>![image](https://user-images.githubusercontent.com/73743934/224478675-b61e942f-8404-41d2-a4fa-7ad5cf05623d.png)</a>
+### Hi there 👋
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Vuetify" **alt="Vuetify" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" **alt="Svelte" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" title="Magento 2" **alt="Magento 2" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
 </div>
 <!--
 **krmll4444/krmll4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
